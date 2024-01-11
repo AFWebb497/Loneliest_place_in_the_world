@@ -33,3 +33,5 @@ The code candidateGeneration requires the GHSL Global POP dataset, foudn at the 
 https://ghsl.jrc.ec.europa.eu/download.php?ds=pop
 
 The data generated is provided in the form of a series of text files, which are processed by the visualisation.ipynb jupyter notebook file.
+
+Further details of the project can be found at https://lonelyearth1.wordpress.com/ , a blog post I made detailing the entire process. 
